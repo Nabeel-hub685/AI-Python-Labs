@@ -23,6 +23,6 @@ elif(time>=4 and time<=5):
     statement="you're slow!  you would be given training to improve your speed! "
 
 elif(time>5):
-    statement="wow! you're highly efficient!"
+    statement="Sorry to say but you have to leave this company!"
 
 print(statement)

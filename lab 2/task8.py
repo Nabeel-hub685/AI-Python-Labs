@@ -10,4 +10,4 @@ while(i<=len(list)):
     newSet.add(list[i-1])
     i+=1
 
-print(newSet,'bdfb')
+print(newSet)
